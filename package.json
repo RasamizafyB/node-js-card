@@ -1,6 +1,6 @@
 {
-  "name": "@rasamizafy/card",
-  "version": "1.0.0",
+  "name": "@rasamizafy/npxcard",
+  "version": "1.0.1",
   "description": "Vcard by Bryan in the terminal",
   "command": "npx @rasamizafy/card",
   "main": "index.js",
