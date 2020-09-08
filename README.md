@@ -15,7 +15,7 @@ npx @rasamizafy/npxcard
 ```
 
 ## Version
-1.0.1
+1.0.2
 
 ## Dependance
 - [boxen](https://www.npmjs.com/package/boxen)

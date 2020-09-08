@@ -1,9 +1,12 @@
 {
   "name": "@rasamizafy/npxcard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vcard by Bryan in the terminal",
   "command": "npx @rasamizafy/card",
   "main": "index.js",
+  "bin": {
+    "bryan": "index.js"
+  },
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.1.0"
