@@ -1,0 +1,25 @@
+{
+  "name": "@rasamizafy/card",
+  "version": "1.0.0",
+  "description": "Vcard by Bryan in the terminal",
+  "command": "npx rasamizafy",
+  "main": "index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasamizafyB/node-js-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasamizafyB/node-js-card/issues"
+  },
+  "homepage": "https://github.com/RasamizafyB/node-js-card#readme"
+}
