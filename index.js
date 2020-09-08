@@ -8,7 +8,7 @@ const cardData = {
     labelWork: chalk.white.italic("       Work:"),
     labelLinkedIn: chalk.white.italic("   LinkedIn:"),
     labelGitHub: chalk.white.italic("     GitHub:"),
-    labelInstagram: chalk.white.italic("    Instagram:"),
+    labelInstagram: chalk.white.italic("  Instagram:"),
     labelNpm: chalk.white.italic("        npm:"),
     labelCard: chalk.white.italic("       Card:"),
 

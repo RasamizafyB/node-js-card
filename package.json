@@ -8,6 +8,7 @@
     "bryan": "index.js"
   },
   "dependencies": {
+    "@ahmedsol/npx-card": "^1.0.0",
     "boxen": "^4.2.0",
     "chalk": "^4.1.0"
   },
