@@ -2,7 +2,7 @@
   "name": "@rasamizafy/card",
   "version": "1.0.0",
   "description": "Vcard by Bryan in the terminal",
-  "command": "npx rasamizafy",
+  "command": "npx @rasamizafy/card",
   "main": "index.js",
   "dependencies": {
     "boxen": "^4.2.0",
